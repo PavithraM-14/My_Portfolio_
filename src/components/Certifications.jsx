@@ -12,7 +12,9 @@ const Certifications = () => {
     'Python Essentials 1 – Cisco Networking Academy (Oct 2025)',
     'Introduction to Industry 4.0 and Industrial Internet of Things - NPTEL (62% Elite) (Nov 2025)',
     'Introduction to Modern AI – Cisco Networking Academy (Nov 2025)',
-    'Security and Connectivity Support – Cisco Networking Academy (Dec 2025)'
+    'Security and Connectivity Support – Cisco Networking Academy (Dec 2025)',
+    'Blockchain and its Applications - NPTEL (60% Elite) (April 2026)',
+    'Natural Language Processing - NPTEL (75% Elite + Silver) (April 2026)'
   ];
 
   return (

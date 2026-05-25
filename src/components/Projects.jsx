@@ -9,6 +9,18 @@ const Projects = () => {
       tech: ['React', 'Node.js', 'MongoDB'],
       status: 'In Progress'
     },
+     {
+      title: '🚀 PrepVerse ',
+      description: 'PrepVerse is an AI-powered placement preparation platform that helps students improve coding, resumes, interviews, and study planning through personalized learning tools.',
+      tech: ['React 18', 'TypeScript', 'Vite', 'Supabase', 'Google Gemini API'],
+      status: 'Completed'
+    },
+    {
+      title: 'Textify',
+      description: 'Textify is a modern web application that provides powerful text processing tools like translation, password generation, text analytics, QR codes, and more in one clean interface.',
+      tech: ['React', 'Tailwind CSS', 'JavaScript', 'Web APIs'],
+      status: 'Completed'
+    },
     {
       title: 'Healthcare Chatbot',
       description: 'Interactive chatbot for healthcare assistance and information',

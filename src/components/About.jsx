@@ -28,7 +28,7 @@ const About = () => {
 
           <div className="about-text">
             <p>
-              I'm a second-year Computer Science student at Easwari Engineering College, Chennai, 
+              I'm a third-year Computer Science student at Easwari Engineering College, Chennai, 
               with a CGPA of 9/10. I'm passionate about learning new technologies and solving 
               real-world problems through code.
             </p>
@@ -40,11 +40,11 @@ const About = () => {
 
             <div className="about-stats">
               <div className="stat-item">
-                <h3>4+</h3>
+                <h3>6+</h3>
                 <p>Projects Completed</p>
               </div>
               <div className="stat-item">
-                <h3>8+</h3>
+                <h3>10+</h3>
                 <p>Hackathons Participated</p>
               </div>
               <div className="stat-item">

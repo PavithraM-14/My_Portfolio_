@@ -16,6 +16,13 @@ const Experience = () => {
           </div>
 
           <div className="experience-card">
+            <div className="experience-icon">🌱</div>
+            <h3>1M1B Intern - AI for Sustainability</h3>
+            <p className="company">1M1B (One Million for One Billion)</p>
+            <p className="year current-status">Current</p>
+          </div>
+
+          <div className="experience-card">
             <div className="experience-icon">
               <div className="company-logo-placeholder">
                 <span>CI</span>
@@ -39,12 +46,15 @@ const Experience = () => {
             <p className="company">Youth Red Cross [2024-2025], Campus Life - Current</p>
             <p className="year current-status">Current</p>
           </div>
+          
+          
         </div>
 
         <div className="hackathons">
           <h3>Hackathon Participations</h3>
           <div className="hackathon-badges">
             <span className="badge">AI Agent Hackathon</span>
+            <span className="badge">TN-Impact (TANCAM/TIDCO)</span>
             <span className="badge">InnovestHack 2025</span>
             <span className="badge">CodeStorm 2025</span>
             <span className="badge">Hackathon'25 - St Joseph College</span>
